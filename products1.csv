@@ -1,6 +1,6 @@
 ﻿name,show ,brand,size ,color,saleDiscount,price,rating,image 
-tshirt,naruto,adidas,m,red,50,500,5,https://m.media-amazon.com/images/I/61c3ABFd21L._AC_UL480_FMwebp_QL65_.jpg
-tshirt,onepiece,adidas,l,blue,40,520,5,https://m.media-amazon.com/images/I/514JNXbLoEL._AC_UL480_FMwebp_QL65_.jpg
-tshirt,onepiece,adidas,s,green,20,400,5,https://m.media-amazon.com/images/I/71LcCkGBOwL._AC_UL480_FMwebp_QL65_.jpg
-tshirt,demonslayer,adidas,xl,purple,30,300,5,https://m.media-amazon.com/images/I/7114uGhcy0L._AC_UL480_FMwebp_QL65_.jpg
-tshirt,demonslayer,adidas,m,red,50,120,5,https://m.media-amazon.com/images/I/710URKTXfXL._AC_UL480_FMwebp_QL65_.jpg
+tshirt,naruto,adidas,m,red,50,500,5,
+tshirt,onepiece,adidas,l,blue,40,520,5,
+tshirt,onepiece,adidas,s,green,20,400,5,
+tshirt,demonslayer,adidas,xl,purple,30,300,5,
+tshirt,demonslayer,adidas,m,red,50,120,5,
